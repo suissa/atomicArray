@@ -1,0 +1,29 @@
+{
+  "name": "atomic-array",
+  "version": "1.0.4",
+  "description": "Create values for an Array easily",
+  "main": "atomicArray.js",
+  "scripts": {
+    "test": "mocha atomicArray.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suissa/atomicArray.git"
+  },
+  "keywords": [
+    "atomic",
+    "even",
+    "number",
+    "random"
+  ],
+  "author": "Suissa",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/suissa/atomicArray/issues"
+  },
+  "homepage": "https://github.com/suissa/atomicArray#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "numbers": "^1.0.2"
+  }
+}
