@@ -1,6 +1,6 @@
 {
   "name": "atomic-array",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Create values for an Array easily",
   "main": "atomicArray.js",
   "scripts": {
