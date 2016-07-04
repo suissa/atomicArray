@@ -1,5 +1,5 @@
 'use strict'
 
-const create = require('./atomicArray')
+const atomicArray = require('./atomicArray')
 
-console.log('Array:', create.atomicArray(10, ()=>0))
+console.log('Array with 0s:', atomicArray.create(10, ()=>0))

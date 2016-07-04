@@ -7,8 +7,11 @@
 3 info using node@v6.2.1
 4 info git [ 'status', '--porcelain' ]
 5 verbose stack Error: Git working directory not clean.
+5 verbose stack M README.md
 5 verbose stack M atomicArray.js
 5 verbose stack M atomicArray.test.js
+5 verbose stack M index.js
+5 verbose stack D npm-debug.log
 5 verbose stack     at /usr/local/lib/node_modules/npm/lib/version.js:246:19
 5 verbose stack     at ChildProcess.exithandler (child_process.js:198:7)
 5 verbose stack     at emitTwo (events.js:106:13)
@@ -24,8 +27,11 @@
 9 error node v6.2.1
 10 error npm  v3.9.3
 11 error Git working directory not clean.
+11 error M README.md
 11 error M atomicArray.js
 11 error M atomicArray.test.js
+11 error M index.js
+11 error D npm-debug.log
 12 error If you need help, you may report this error at:
 12 error     <https://github.com/npm/npm/issues>
 13 verbose exit [ 1, true ]
